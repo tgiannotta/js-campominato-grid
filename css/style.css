@@ -1,0 +1,27 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+
+/* HEADER */
+header{
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+}
+/* MAIN */
+main{
+    width: 100%;
+    height: calc(100vh - 200px);
+    background-color: #7fffd4;
+}
+/* FOOTER */
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: crimson;
+}
